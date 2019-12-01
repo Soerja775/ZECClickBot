@@ -1,6 +1,6 @@
 # ZECClickBot
 # Link ZECClickBot Telegram
-Hargai Refferal : https://t.me/Zcash_click_bot?start=46sF
+Hargai Refferal : https://t.me/Zcash_click_bot?start=5cT4
 
 # Cara Install 
 $ pkg update && pkg upgrade<br>
